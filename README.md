@@ -2,10 +2,6 @@
 
 A high school 2D pixel-art game prototype exploring interactive narrative and animation through carefully crafted character designs and visual storytelling.
 
-## 📖 Overview
-
-Mr. Moreson Creative Prototype is a 2D pixel-art game project that I co-developed during high school, focusing on the intersection of interactive storytelling and animation design. This repository showcases the creative design work, including character animations and concept documentation that formed the foundation of the game prototype.
-
 ### Character Animation Samples
 
 <table align="center">
@@ -21,6 +17,9 @@ Mr. Moreson Creative Prototype is a 2D pixel-art game project that I co-develope
   </tr>
 </table>
 
+## 📖 Overview
+
+Mr. Moreson Creative Prototype is a 2D pixel-art game project that I co-developed during high school, focusing on the intersection of interactive storytelling and animation design. This repository showcases the creative design work, including character animations and concept documentation that formed the foundation of the game prototype.
 
 ## 🎯 Project Goals
 
